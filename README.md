@@ -1,4 +1,5 @@
 # AI Resume Analyzer
+LIVE DEMO = [https://ai-resume-analyzer-beryl-chi-75.vercel.app/](url)
 
 AI Resume Analyzer is a modern full-stack web application designed to help users evaluate and improve their resumes using AI-powered analysis and ATS (Applicant Tracking System) insights. The platform allows users to upload resumes, analyze resume content, identify missing skills, and receive smart recommendations to enhance job readiness and resume quality.
 
